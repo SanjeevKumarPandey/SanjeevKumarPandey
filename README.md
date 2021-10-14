@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-*Enthusiastic Programmer | Ad Insertion Evangelist | Web Developer | Open Source lover*
+*Enthusiastic Programmer | Ad Insertion Evangelist | Full Stack Developer | Software Architect*
 
 ![](https://komarev.com/ghpvc/?username=SanjeevKumarPandey&color=brightgreen&style=flat)
 
