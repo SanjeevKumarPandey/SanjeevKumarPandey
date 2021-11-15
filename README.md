@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-*Enthusiastic Programmer | Ad Insertion Evangelist | Full Stack Developer | Software Architect*
+*Technology Leader | Ad Insertion Evangelist | Full Stack Developer | Software Architect*
 
 ![](https://komarev.com/ghpvc/?username=SanjeevKumarPandey&color=brightgreen&style=flat)
 
-- 🌱 I’m currently trying to learn [Kotlin Multiplatform Mobile](https://kotlinlang.org/lp/mobile/).
-- 🔭 I’m currently working as **Developement Mentor @Newton School**
-- 👯 I’m looking to collaborate on **open source projects**
+- 🌱 Follow me for insightful [new articles on medium.com](https://sanjeev-pandey.medium.com/).
+- 🔭 I'm currently working as **Developement Mentor @Newton School**
+- 👯 I’m looking to collaborate on **open source projects** and **paid consulting**
 - 💬 Ask me about **Dynamic Ad Insertion, Video Engineering, System Design and Full Stack Development**
 - 📫 Reach me at **sanjeevkumarpandey@live.in**
 - ⚡ More Facts: I mentor college and school kids in entrepreneurial thinking and programming.
