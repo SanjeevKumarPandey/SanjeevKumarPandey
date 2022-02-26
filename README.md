@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🔭 I'm currently working as **Developement Mentor @Newton School**
 - 👯 I’m looking to collaborate on **open source projects** and **paid consulting**
 - 💬 Ask me about **Dynamic Ad Insertion, Video Engineering, System Design and Full Stack Development**
-- 📫 Reach me at **sanjeevkumarpandey@live.in**
+- 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/sanjeev--pandey/)**
 - ⚡ More Facts: I mentor college and school kids in entrepreneurial thinking and programming.
 
 ### Find me on :
