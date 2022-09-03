@@ -22,12 +22,11 @@ Here are some ideas to get you started:
 - 🌱 Follow me on [medium.com](https://sanjeev-pandey.medium.com/).
 - 👯 I can collaborate on **open source projects** and **consulting** opportunities
 - 💬 Ask me about **Dynamic Ad Insertion, Video Engineering, System Design, Full Stack Development, Resume Writing, Development Job Prep, Engineering Management, Engineering Strategy, and Flying Planes!**
-- 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/sanjeev--pandey/)**
+- 📫 Reach me at <p><a href="https://www.linkedin.com/in/sanjeev--pandey/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></a> 
 - ⚡ More Facts: I mentor college and school kids in entrepreneurial thinking and programming.
 
-### Find me on :
-<p><a href="https://www.linkedin.com/in/sanjeev--pandey/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></a> 
-
+<!-- ### Find me on :
+ -->
 <br />
 <br />
 
