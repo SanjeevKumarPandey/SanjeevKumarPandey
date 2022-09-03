@@ -1,4 +1,4 @@
-### Hi there, I'm Sanjeev Pandey 👋
+### Hi there, I'm Sanjeev 👋
 
 <!--
 **SanjeevKumarPandey/SanjeevKumarPandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,20 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-*Technology Leader | Ad Insertion Evangelist | Full Stack Developer | Software Architect*
+*Technology Leader | Ad Insertion Evangelist | Full Stack Developer - MERN | Software Architect*
 
 ![](https://komarev.com/ghpvc/?username=SanjeevKumarPandey&color=brightgreen&style=flat)
 
-- 🌱 Follow me for insightful [new articles on medium.com](https://sanjeev-pandey.medium.com/).
-- 🔭 I'm currently working as **Developement Mentor @Newton School**
-- 👯 I’m looking to collaborate on **open source projects** and **paid consulting**
-- 💬 Ask me about **Dynamic Ad Insertion, Video Engineering, System Design and Full Stack Development**
+- 🌱 Follow me on [medium.com](https://sanjeev-pandey.medium.com/).
+- 👯 I can collaborate on **open source projects** and **consulting** opportunities
+- 💬 Ask me about **Dynamic Ad Insertion, Video Engineering, System Design, Full Stack Development, Resume Writing, Development Job Prep, Engineering Management, Engineering Strategy, and Flying Planes!**
 - 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/sanjeev--pandey/)**
 - ⚡ More Facts: I mentor college and school kids in entrepreneurial thinking and programming.
 
 ### Find me on :
-
-<p><a href="https://twitter.com/papaintegrator"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/sanjeev--pandey/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/papaintegrator/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+<p><a href="https://www.linkedin.com/in/sanjeev--pandey/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></a> 
 
 <br />
 <br />
@@ -48,7 +46,7 @@ Here are some ideas to get you started:
 <img align="left" alt="SanjeevKumarPandey | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
 <img align="left" alt="SanjeevKumarPandey | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />
 <img align="left" alt="SanjeevKumarPandey | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
-<!--<img align="left" alt="SanjeevKumarPandey | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" />-->
+<img align="left" alt="SanjeevKumarPandey | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" />
 <img align="left" alt="SanjeevKumarPandey | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gradle.svg" />
 <!--<img align="left" alt="SanjeevKumarPandey | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" />
 <img align="left" alt="SanjeevKumarPandey | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg" />
